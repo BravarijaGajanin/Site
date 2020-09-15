@@ -36,6 +36,12 @@ h2 {
     font-weight: 500;
 }
 
+h4 {
+    color: white;
+	text-align: center;
+}
+
+
 #welding{
     max-width: 100%;
     margin: 0 auto;
@@ -187,7 +193,7 @@ footer{
         font-size: 1.2rem;
     }
 
-    h1, h2, h3, p{
+    h1, h2, h3, h4, p{
         text-align: center;
     }
 
