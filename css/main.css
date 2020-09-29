@@ -146,6 +146,12 @@ footer{
     text-align: center;
 }
 
+ 
+
+div.disabled{
+	overflow-x: hidden; //horizontal
+}
+
 
 @media(max-width:550px){
    
