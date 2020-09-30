@@ -182,7 +182,10 @@ img {
     height: 100%;
     content: ""; }
 
-
+// Options: visible, hidden, scroll, auto	
+div.disabled {
+    overflow-x: hidden; //horizontal
+}
 
 
 /*====VIDEO CSS STARTS====*/
