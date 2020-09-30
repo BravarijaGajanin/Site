@@ -149,6 +149,18 @@ img {
   border-style: none;
 }
 
+
+
+
+// Options: visible, hidden, scroll, auto	
+div.disabled {
+    overflow-x: hidden; //horizontal
+}
+
+
+
+
+
 /* Forms
    ========================================================================== */
 
