@@ -471,9 +471,9 @@ div.disabled {
 .single_portfolio_item {
   position: relative;
   z-index: 0;
-  margin-top: 30px;
+  margin-top: 35px;
   overflow: hidden;
-  height: 650px;
+  height: 700px;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms; }
 
