@@ -2001,7 +2001,7 @@ img {
 .single_portfolio_item {
     position: relative;
     z-index: 10;
-    margin-top: 20px;
+    margin-top: 25px;
     overflow: hidden;
     height: 600px;
     @include trans-duration(500ms);
@@ -2009,7 +2009,7 @@ img {
         height: 290px;
     }
     @media #{$breakpoint-xs} {
-        height: 300px;
+    width: 400px;
     }
     .portfolio-thumbnail {
         @include trans-duration(500ms);

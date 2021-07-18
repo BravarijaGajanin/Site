@@ -458,7 +458,7 @@ div.disabled {
     @media only screen and (max-width: 767px) {
       .bravarija-gajanin-portfolio-filter .btn {
         font-size: 16px;
-        padding: 0 5px; } }
+        padding: 0 10px; } }
       
 
 .bravarija-gajanin-portfolio.row {
@@ -551,7 +551,6 @@ div.disabled {
     .map-area iframe {
       height: 260px; 
       width: 200px; } }
-
 
 
 /* ::  Portfolio Details Area CSS */
